@@ -1,3 +1,5 @@
+[← Back to README](../README.md)
+
 # Visual Stimulus
 
 Stimulus presentation code and tools for pRF mapping experiments.
