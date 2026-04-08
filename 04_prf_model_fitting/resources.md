@@ -14,6 +14,8 @@ Software packages for fitting pRF models to fMRI data.
 | BayespRF | MATLAB/SPM | Bayesian pRF estimation | *placeholder* | - |
 | prfpy | Python | pRF fitting library (Spinoza Centre) | *placeholder* | - |
 | popeye | Python | pRF estimation library | *placeholder* | - |
+| GEM-pRF | Python | pRF estimation library | gemprf.github.io | - |
+| qPRF | Python | pRF estimation library | *placeholder* | - |
 | *placeholder* | Docker | Containerised pRF fitting | *placeholder* | - |
 
 ## Benchmarking & Comparison
